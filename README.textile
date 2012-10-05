@@ -1,3 +1,18 @@
+Summary:
+This clone converts the project to a framework so it is easy for developers to import the functionality.
+The project was converted to framework based on information at:
+https://github.com/jverkoey/iOS-Framework
+
+About this repo:
+This project is a clone of upstream repo (see below)
+
+git remote -v
+origin	https://github.com/SavvyBud/asi-http-request.git (push)
+upstream	https://github.com/pokeb/asi-http-request.git (fetch)
+
+
+Original text:
+
 ASIHTTPRequest is an easy to use wrapper around the CFNetwork API that makes some of the more tedious aspects of communicating with web servers easier. It is written in Objective-C and works in both Mac OS X and iPhone applications.
 
 It is suitable performing basic HTTP requests and interacting with REST-based services (GET / POST / PUT / DELETE). The included ASIFormDataRequest subclass makes it easy to submit POST data and files using multipart/form-data.

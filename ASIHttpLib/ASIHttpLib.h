@@ -7,3 +7,6 @@
 //
 
 #import <Foundation/Foundation.h>
+
+#import <ASIHttpLib/ASIHTTPRequest.h>
+#import <ASIHttpLib/ASIFormDataRequest.h>
