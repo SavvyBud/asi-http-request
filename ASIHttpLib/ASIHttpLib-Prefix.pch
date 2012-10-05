@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'ASIHttpLib' target in the 'ASIHttpLib' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif
